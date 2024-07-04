@@ -1,8 +1,7 @@
 {
-    "name": "Opacity",
-    "website": "https://www.opacity.network",
-    "description": "Opacity is a MPC-TLS AVS that enables generating trust minimized ZKPs over existing HTTPs APIs. Learn more at https://www.opacity.network",
-    "logo": "https://raw.githubusercontent.com/OpacityLabs/avs-metadata/main/avs-logo.png",
-    "twitter": "https://twitter.com/OpacityNetwork",
-    "farcaster": "https://warpcast.com/~/channel/opacity"
+    "name": "/dev/null",
+    "website": "https://devnull.com",
+    "description": "nothing to see here",
+    "logo": "https://raw.githubusercontent.com/hmac512/dummy-avs-metadata/main/dev-null.png",
+    "twitter": "https://x.com/devnull"
 }
